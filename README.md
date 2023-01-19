@@ -46,3 +46,11 @@ Here are some ideas to get you started:
 StackOverflow
 
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18323178&layout=compact&theme=light)](https://stackoverflow.com/users/18323178/bibangye)
+
+奖杯
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BIBANGYE&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
