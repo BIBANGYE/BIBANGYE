@@ -2,7 +2,8 @@
 
 ![下载](assets/下载.png)
 ### Hi there 👋
-###           欢迎来到我的 GitHub ✨
+### 欢迎来到我的 GitHub ✨
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BIBANGYE&theme=nautilus&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 项目置顶
 
@@ -23,7 +24,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BIBANGYE&show_icons=true&theme=radical)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BIBANGYE&theme=nautilus&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 
 热门语言
 
