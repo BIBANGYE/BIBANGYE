@@ -6,6 +6,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BIBANGYE&theme=nautilus&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BIBANGYE.visitor-badge&left_color=red&right_color=green)
+
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18323178&layout=compact&theme=light)](https://stackoverflow.com/users/18323178/bibangye)
 
 #### 项目置顶
@@ -37,7 +38,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
 
-####成就
+#### 成就
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BIBANGYE)](https://github.com/ryo-ma/github-profile-trophy)
 
