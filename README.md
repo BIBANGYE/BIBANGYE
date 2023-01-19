@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIBANGYE)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIBANGYE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 访客
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BIBANGYE.visitor-badge&left_color=red&right_color=green)
