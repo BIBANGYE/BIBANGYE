@@ -49,7 +49,7 @@ StackOverflow
 
 奖杯
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BIBANGYE&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BIBANGYE)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
