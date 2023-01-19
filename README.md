@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 欢迎来到我的 GitHub 页面。
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIBANGYE&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BIBANGYE&show_icons=true&theme=radical)
+
+访客
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
