@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 热门语言
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIBANGYE&layout=compact)](https://github.com/BIBANGYE/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIBANGYE&layout=compact)](https://github.com/BIBANGYE/BIBANGYE)
 
 访客
 
