@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBANGYE&repo=WEBUSB)](https://github.com/BIBANGYE/WEBUSB)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBANGYE&repo=github-readme-stats)](https://github.com/BIBANGYE/Git-Manual)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBANGYE&repo=Git-Manual)](https://github.com/BIBANGYE/Git-Manual)
 
 状态
 
