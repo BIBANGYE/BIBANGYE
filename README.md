@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBANGYE&repo=WEBUSB" />
 </a>
 <a href="https://github.com/BIBANGYE/Git-Manual">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBANGYE&repo=Git-Manual)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBANGYE&repo=Git-Manual" />
 </a>
 
 状态
