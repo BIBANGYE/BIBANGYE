@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BIBANGYE&show_icons=true&theme=radical)
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BIBANGYE&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 热门语言
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIBANGYE&layout=compact)](https://github.com/BIBANGYE/BIBANGYE)
