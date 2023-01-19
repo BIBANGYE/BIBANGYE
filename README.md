@@ -23,6 +23,14 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BIBANGYE&repo=Git-Manual)](https://github.com/BIBANGYE/Git-Manual)
 
+
+<a href="https://github.com/BIBANGYE/WEBUSB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBANGYE&repo=WEBUSB" />
+</a>
+<a href="https://github.com/BIBANGYE/Git-Manual">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBANGYE&repo=Git-Manual)" />
+</a>
+
 状态
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BIBANGYE&show_icons=true&theme=radical)
