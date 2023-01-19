@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BIBANGYE.visitor-badge&left_color=red&right_color=green)
 
 StackOverflow
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18323178)](https://stackoverflow.com/users/18323178/bibangye)
+
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18323178&layout=compact&theme=light)](https://stackoverflow.com/users/18323178/bibangye)
