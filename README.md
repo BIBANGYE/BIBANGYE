@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BIBANGYE&show_icons=true&theme=radical)
 
+热门语言
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIBANGYE)](https://github.com/BIBANGYE/github-readme-stats)
+
 访客
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BIBANGYE.visitor-badge&left_color=red&right_color=green)
