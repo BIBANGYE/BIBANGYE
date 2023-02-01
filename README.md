@@ -20,9 +20,6 @@
 <a href="https://github.com/BIBANGYE/WEBUSB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBANGYE&repo=WEBUSB" />
 </a>
-<a href="https://github.com/BIBANGYE/Git-Manual">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BIBANGYE&repo=Git-Manual" />
-</a>
 
 #### 项目语言
 
